@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web development and api**
 
-- 💬 Ask me about **who are you really?? || c a&& java**
+- 💬 Ask me about **who are you really?? || c && java**
 
 - 📫 How to reach me **samuelbritto737@gmail.com**
 
