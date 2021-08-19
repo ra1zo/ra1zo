@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samuelbritto737@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1JDb5GqQk0egygzk7-jkwPKpKona7GToD/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bhKE19mpMDyNE9eJc7b8k8h4kt-yRAqx/view?usp=sharing" target="blank">Resume</a>
 
 - ⚡ Fun fact **i was a ex professional CS GO and Valorant player.**
 
